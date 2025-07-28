@@ -1,0 +1,9 @@
+sentence-transformers
+PyPDF2
+torch
+transformers
+pdfplumber
+numpy
+torch-geometric
+bitsandbytes
+accelerate

@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "collection": "Collection 2",
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processed_at": "2025-07-28T16:49:37.366668",
+    "model": "all-MiniLM-L6-v2 + t5-base"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Fill in interactive forms ",
+      "page_number": 8,
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "2. Select anywhere in the form to access options, such as ra",
+      "page_number": 9,
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Types of PDF forms  ",
+      "page_number": 2,
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "8. Once done, select the next field space and then enter you",
+      "page_number": 4,
+      "importance_rank": 4
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "2. Advanced Authoring  can be enabled by selecting the toggl",
+      "page_number": 14,
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "refined_text": "Fill in interactive forms An interactive form contains fields that you can select or fill in ."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 9,
+      "refined_text": "select anywhere in the form to access options, such as radio buttons . select inside a text field to type ."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "refined_text": "Fill & Sign tool automatically detects the form fields like text fields, comb fields, checkboxes, and radio buttons . you can manually add text and other symbols anywhere on the form using the Fill & Sign tool if required ."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 4,
+      "refined_text": "use the formatting options as desired."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 14,
+      "refined_text": "Advanced Authoring can be enabled by selecting the toggle in the upper right corner ."
+    }
+  ]
+}

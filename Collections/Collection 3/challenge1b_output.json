@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "collection": "Collection 3",
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processed_at": "2025-07-28T16:50:04.863772",
+    "model": "all-MiniLM-L6-v2 + t5-base"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "\u2022 2 tablespoons vegetable oil  ",
+      "page_number": 8,
+      "importance_rank": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Cottage Cheese and Veggie Bowl  ",
+      "page_number": 16,
+      "importance_rank": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "\u2022 1 pound ground beef  ",
+      "page_number": 14,
+      "importance_rank": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o Add diced tomatoes, fish stock, wine, saffron, thyme, salt",
+      "page_number": 9,
+      "importance_rank": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "\u2022 Shredded lettuce, diced tomatoes, shredded cheese, sour cr",
+      "page_number": 5,
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 8,
+      "refined_text": "fajita seasoning and fajita seasoning are the main ingredients . chicken and vegetables are cooked through and vegetables are tender ."
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 16,
+      "refined_text": "in a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper . season with salt and pepper to taste ."
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 14,
+      "refined_text": "in a large bowl, mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, milk, beaten egg, ketchup, Worcestershire sauce, salt, and pepper . shape the mixture into a loaf and place in a baking dish ."
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 9,
+      "refined_text": "o Add diced tomatoes, fish stock, wine, saffron, thyme, salt, and pepper, simmer for 20 minutes . o Add fish fillets, shrimp, and mussels, cook until seafood is done ."
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 5,
+      "refined_text": "ground beef is cooked over medium heat in a skillet . add diced onion and minced garlic, saut\u00e9 until softened . stir in taco seasoning and water, simmer until thickened ."
+    }
+  ]
+}

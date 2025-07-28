@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "collection": "Collection 1",
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processed_at": "2025-07-28T16:48:59.185418",
+    "model": "all-MiniLM-L6-v2 + t5-base"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Tips and Tricks for Packing  ",
+      "page_number": 8,
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "General Packing Tips and Tricks  ",
+      "page_number": 2,
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Conclusion  ",
+      "page_number": 9,
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Special Considerations  ",
+      "page_number": 7,
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "The Ultimate South of France Travel Companion: Your Comprehe",
+      "page_number": 1,
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 8,
+      "refined_text": "Check the weather before packing to ensure appro priate clothing . Make a packing list to ensure nothing is forgotten ."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 2,
+      "refined_text": "the weather can vary, so pack layers to stay comfortable in different temperatures . Roll your clothes to save space and reduce wrinkles . first aid kit: include a small first aid kit with band-aids, antiseptic wipes ."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 9,
+      "refined_text": "packing for a trip to the south of france involves considering t he season, planned activities, and the needs of both adults and children . remember to pack light, versatile clothing, and essential items to make the most of your travel experience ."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 7,
+      "refined_text": "a beach bag is a large, waterproof bag for essentials . a phone case is a good option for protecting your phone . a guidebook can be used to help navigate and find points of interest ."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 1,
+      "refined_text": "this guide covers everything from packing essentials to travel tips . it caters to all seasons and various activities ."
+    }
+  ]
+}
