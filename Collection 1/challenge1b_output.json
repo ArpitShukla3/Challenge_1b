@@ -3,7 +3,7 @@
     "collection": "Collection 1",
     "persona": "Travel Planner",
     "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
-    "processed_at": "2025-07-28T16:48:59.185418",
+    "processed_at": "2025-07-28T17:27:25.193241",
     "model": "all-MiniLM-L6-v2 + t5-base"
   },
   "extracted_sections": [

@@ -3,7 +3,7 @@
     "collection": "Collection 2",
     "persona": "HR professional",
     "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
-    "processed_at": "2025-07-28T16:49:37.366668",
+    "processed_at": "2025-07-28T17:27:52.849879",
     "model": "all-MiniLM-L6-v2 + t5-base"
   },
   "extracted_sections": [
